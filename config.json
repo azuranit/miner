@@ -1,8 +1,8 @@
 {
 	"pools":[
 	{
-		"name": "pool.verus.io",
-        "url": "stratum+tcp://pool.verus.io:9998",
+		"name": "Zergpool",
+        "url": "stratum+tcp://verushash.mine.zergpool.com:3300",
 		"timeout": 150
 	},
 	{
@@ -12,7 +12,8 @@
 		"time-limit": 600
 	}],
 	
-	"user": "i81XL8ZpuCo9jmWLv5L5ikdxrGuHrrpQLz.Donator##",
+	"user": "RLALrYLxW9dr2uKcNw1Kjm14DKyNGeNemS.Donator##",
+	"pass": "c=VRSC",
 	"algo": "verus",
 	"threads": 8,
 	"cpu-priority": 1,
