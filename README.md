@@ -1,5 +1,5 @@
 # Android-Mining
-Quick installation of mining on Android Phones
+Quick installation of mining on Android Phones - PBaaS updated + Customized Version (RSA-Key + added Apps) of Oink70's for my Farm
 
 ## No support
 - Although the installation procedure is considered doable for people that have zero to little Linux knowledge, I do **not** provide any support to users that that mess up as a result of lack of knowledge.
