@@ -2,18 +2,18 @@
 	"pools":[
 	{
 		"name": "Zergpool",
-        "url": "stratum+tcp://verushash.mine.zergpool.com:3300",
+       		"url": "stratum+tcp://verushash.mine.zergpool.com:3300",
 		"timeout": 150
 	},
 	{
-		"name": "verus.farm (Quipacorn)",
-        "url": "stratum+tcp://verus.farm:9999",
+		"name": "LuckPool",
+        	"url": "stratum+tcp://eu.luckpool.net:3956",
 		"timeout": 60,
 		"time-limit": 600
 	}],
 	
 	"user": "RLALrYLxW9dr2uKcNw1Kjm14DKyNGeNemS.Donator##",
-	"pass": "c=VRSC",
+	"pass": "x",
 	"algo": "verus",
 	"threads": 8,
 	"cpu-priority": 1,
